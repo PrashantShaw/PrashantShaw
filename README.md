@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on DApps and AI Agents
-- 🌱 I’m currently learning Modern System Design
+- 🔭 I’m currently working on Mobile Apps and AI Agents
+- 🌱 I’m currently learning Modern System Design, Agentic Workflow
 - 👯 I’m looking to collaborate on opensource
-- 💬 Ask me about Frontend and NextJS
+- 💬 Ask me about Frontend, Expo and NextJS
 - ⚡ Fun fact: I love Anime and Sports
 
 ## 💻 Tech Stack:
